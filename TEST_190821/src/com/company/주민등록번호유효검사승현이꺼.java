@@ -1,5 +1,7 @@
 package com.company;
 
+//깃허브에서 수정했음!!
+
 import java.util.Scanner;
 
 public class 주민등록번호유효검사승현이꺼 {
